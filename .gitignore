@@ -1,0 +1,13 @@
+# Keep API keys private
+.streamlit/secrets.toml
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Windows system files
+desktop.ini

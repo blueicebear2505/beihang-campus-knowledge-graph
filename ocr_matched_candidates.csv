@@ -1,0 +1,33 @@
+id,name,map_code,x,y,confidence,status
+L50,Conference Center,C1,79.32,8.19,89.0,needs_visual_check
+L02,Library,C2,79.43,14.02,85.0,manual_coordinate_exists
+L42,Teaching Building 1,C3,79.43,17.35,95.0,needs_visual_check
+L61,Student & Staff Services,C3,79.43,17.35,95.0,needs_visual_check
+L34,Student Dormitory D9,D9,45.56,20.03,67.0,needs_visual_check
+L43,Teaching Building 2,C4,79.44,22.86,77.0,needs_visual_check
+L62,Post Office,C4,79.44,22.86,77.0,needs_visual_check
+L63,Bank,C4,79.44,22.86,77.0,needs_visual_check
+L33,Student Dormitory D8,D8,53.29,24.02,93.0,needs_visual_check
+L51,Exhibition Hall,C5,79.43,30.11,60.0,needs_visual_check
+L45,Teaching Building 4,C7,79.43,39.94,95.0,needs_visual_check
+L31,Student Dormitory D6,D6,54.04,43.98,87.0,needs_visual_check
+L32,Student Dormitory D7,D7,61.68,44.01,94.0,needs_visual_check
+L06,Music Hall,C8,79.44,45.67,62.0,needs_visual_check
+L29,Student Dormitory D4,D4,54.01,47.72,95.0,needs_visual_check
+L46,Teaching Building 5,C9,79.43,48.2,45.0,needs_visual_check
+L64,Supercomputing Center,C9,79.43,48.2,45.0,needs_visual_check
+L65,Medical Center,C9,79.43,48.2,45.0,needs_visual_check
+L27,Student Dormitory D2,D2,54.04,51.61,95.0,needs_visual_check
+L26,Student Dormitory D1,D1,61.61,55.54,95.0,needs_visual_check
+L47,Research Building 1,R1,79.3,60.63,91.0,needs_visual_check
+L48,Research Building 2,R2,79.4,63.71,90.0,needs_visual_check
+L49,Research Building 3,R3,79.4,66.85,91.0,needs_visual_check
+L53,Laboratory Building 1,L1,6.09,84.13,84.0,needs_visual_check
+L57,Laboratory Building 5,L5,24.56,84.17,90.0,needs_visual_check
+L11,Football Field,S5,61.25,84.14,76.0,needs_visual_check
+L54,Laboratory Building 2,L2,6.22,87.29,92.0,needs_visual_check
+L58,Laboratory Building 6,L6,24.56,87.31,77.0,needs_visual_check
+L55,Laboratory Building 3,L3,6.22,90.44,90.0,needs_visual_check
+L60,Training Gym,S3,42.89,90.43,80.0,needs_visual_check
+L12,Tennis Court,S7,61.25,90.44,61.0,needs_visual_check
+L56,Laboratory Building 4,L4,6.22,93.59,91.0,needs_visual_check

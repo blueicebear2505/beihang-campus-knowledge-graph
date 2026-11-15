@@ -1,0 +1,69 @@
+﻿id,name,entity_type,category,evidence,verification_status,is_route_node,map_code
+L01,Campus Gymnasium,Building,Sports,S01; S02,source_supported,yes,
+L02,Library,Building,Study,S02; S03,source_supported,yes,C2
+L03,Dining Hall,Building,Dining,S02; S03,source_supported,yes,
+L04,Student Dormitory,Building,Residential,S02; S03,source_supported,yes,
+L05,Aerospace Pavilion,Building,Exhibition,S02,source_supported,yes,
+L06,Music Hall,Building,Cultural,S03,source_supported,yes,C8
+L07,Classroom,Facility,Academic,S03,needs_confirmation,no,
+L08,Laboratory,Facility,Academic,S02; S03,needs_confirmation,no,
+L09,Basketball Hall,Facility,Sports,S03,source_supported,no,S2
+L10,Basketball Court,OutdoorFacility,Sports,S03,source_supported,yes,S8
+L11,Football Field,OutdoorFacility,Sports,S03,source_supported,yes,S5
+L12,Tennis Court,OutdoorFacility,Sports,S03,source_supported,yes,S7
+L13,Volleyball Court,OutdoorFacility,Sports,S03,source_supported,yes,S6
+L14,Swimming Pool,Facility,Sports,S03,source_supported,yes,S4
+L15,Convenience Store,Facility,Shopping,S03,needs_confirmation,no,
+L16,Cainiao Parcel Station,Facility,Services,S03,needs_confirmation,no,
+L17,Printing Shop,Facility,Services,S03,needs_confirmation,no,
+L18,Laundry Shop,Facility,Services,S03,needs_confirmation,no,
+L19,South Gate,Entrance,Entrance,S03,source_supported,yes,
+L20,East Gate,Entrance,Entrance,S03,source_supported,yes,
+L21,Tianmushan Laboratory,ResearchPlatform,Research,S02,source_supported,no,
+L22,Industry Science 2.0 Laboratory,ResearchPlatform,Research,S02,source_supported,no,
+L23,International Research Center for Green Photonics,ResearchPlatform,Research,S02,source_supported,no,
+L24,State Key Laboratory of Spintronics Devices and Technologies,ResearchPlatform,Research,S02,source_supported,no,
+L25,Key Laboratory of Data Science and Intelligent Computing,ResearchPlatform,Research,S02,source_supported,no,
+L26,Student Dormitory D1,Building,Residential,S03,source_supported,yes,D1
+L27,Student Dormitory D2,Building,Residential,S03,source_supported,yes,D2
+L28,Student Dormitory D3,Building,Residential,S03,source_supported,yes,D3
+L29,Student Dormitory D4,Building,Residential,S03,source_supported,yes,D4
+L30,Student Dormitory D5,Building,Residential,S03,source_supported,yes,D5
+L31,Student Dormitory D6,Building,Residential,S03,source_supported,yes,D6
+L32,Student Dormitory D7,Building,Residential,S03,source_supported,yes,D7
+L33,Student Dormitory D8,Building,Residential,S03,source_supported,yes,D8
+L34,Student Dormitory D9,Building,Residential,S03,source_supported,yes,D9
+L35,Student Dormitory D10,Building,Residential,S03,source_supported,yes,D10
+L36,Student Dormitory D11,Building,Residential,S03,source_supported,yes,D11
+L37,Student Dormitory D12,Building,Residential,S03,source_supported,yes,D12
+L38,Student Dormitory D13,Building,Residential,S03,source_supported,yes,D13
+L39,Student Dormitory D14,Building,Residential,S03,source_supported,yes,D14
+L40,South Canteen,Building,Dining,S03,source_supported,yes,
+L41,North Canteen,Building,Dining,S03,source_supported,yes,
+L42,Teaching Building 1,Building,Academic,S03,source_supported,yes,C3
+L43,Teaching Building 2,Building,Academic,S03,source_supported,yes,C4
+L44,Teaching Building 3,Building,Academic,S03,source_supported,yes,C6
+L45,Teaching Building 4,Building,Academic,S03,source_supported,yes,C7
+L46,Teaching Building 5,Building,Academic,S03,source_supported,yes,C9
+L47,Research Building 1,Building,Research,S03,source_supported,yes,R1
+L48,Research Building 2,Building,Research,S03,source_supported,yes,R2
+L49,Research Building 3,Building,Research,S03,source_supported,yes,R3
+L50,Conference Center,Building,Events,S03,source_supported,yes,C1
+L51,Exhibition Hall,Building,Exhibition,S03,source_supported,yes,C5
+L52,Staff Development Center,Building,Administration,S03,source_supported,yes,A5
+L53,Laboratory Building 1,Building,Academic,S03,source_supported,yes,L1
+L54,Laboratory Building 2,Building,Academic,S03,source_supported,yes,L2
+L55,Laboratory Building 3,Building,Academic,S03,source_supported,yes,L3
+L56,Laboratory Building 4,Building,Academic,S03,source_supported,yes,L4
+L57,Laboratory Building 5,Building,Academic,S03,source_supported,yes,L5
+L58,Laboratory Building 6,Building,Academic,S03,source_supported,yes,L6
+L59,400m Sports Field,OutdoorFacility,Sports,S03,source_supported,yes,S1
+L60,Training Gym,Building,Sports,S03,source_supported,yes,S3
+L61,Student & Staff Services,Facility,Services,S03,source_supported,yes,C3
+L62,Post Office,Facility,Services,S03,source_supported,yes,C4
+L63,Bank,Facility,Finance,S03,source_supported,yes,C4
+L64,Supercomputing Center,Facility,Academic,S03,source_supported,yes,C9
+L65,Medical Center,Facility,Healthcare,S03,source_supported,yes,C9
+
+
+

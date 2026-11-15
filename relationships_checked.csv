@@ -1,0 +1,86 @@
+﻿subject_id,relationship,target_id,evidence_source,verification_status,distance_m
+L01,BELONGS_TO,Sports,S01; S02,source_supported,
+L02,BELONGS_TO,Study,S02; S03,source_supported,
+L03,BELONGS_TO,Dining,S02; S03,source_supported,
+L04,BELONGS_TO,Residential,S02; S03,source_supported,
+L05,BELONGS_TO,Exhibition,S02,source_supported,
+L06,BELONGS_TO,Cultural,S03,source_supported,
+L07,BELONGS_TO,Academic,S03,needs_confirmation,
+L08,BELONGS_TO,Academic,S02; S03,needs_confirmation,
+L09,BELONGS_TO,Sports,S03,source_supported,
+L10,BELONGS_TO,Sports,S03,source_supported,
+L11,BELONGS_TO,Sports,S03,source_supported,
+L12,BELONGS_TO,Sports,S03,source_supported,
+L13,BELONGS_TO,Sports,S03,source_supported,
+L14,BELONGS_TO,Sports,S03,source_supported,
+L15,BELONGS_TO,Shopping,S03,needs_confirmation,
+L16,BELONGS_TO,Services,S03,needs_confirmation,
+L17,BELONGS_TO,Services,S03,needs_confirmation,
+L18,BELONGS_TO,Services,S03,needs_confirmation,
+L19,BELONGS_TO,Entrance,S03,source_supported,
+L20,BELONGS_TO,Entrance,S03,source_supported,
+L21,BELONGS_TO,Research,S02,source_supported,
+L22,BELONGS_TO,Research,S02,source_supported,
+L23,BELONGS_TO,Research,S02,source_supported,
+L24,BELONGS_TO,Research,S02,source_supported,
+L25,BELONGS_TO,Research,S02,source_supported,
+L19,CONNECTED_TO,L03,S03,estimated,180
+L19,CONNECTED_TO,L06,S03,estimated,200
+L19,CONNECTED_TO,L02,S03,estimated,250
+L20,CONNECTED_TO,L02,S03,estimated,220
+L20,CONNECTED_TO,L05,S02,estimated,200
+L02,CONNECTED_TO,L03,S02; S03,estimated,150
+L02,CONNECTED_TO,L06,S03,estimated,120
+L02,CONNECTED_TO,L05,S02,estimated,180
+L03,CONNECTED_TO,L04,S02; S03,estimated,200
+L03,CONNECTED_TO,L06,S03,estimated,160
+L04,CONNECTED_TO,L01,S02; S03,estimated,300
+L04,CONNECTED_TO,L10,S03,estimated,250
+L01,CONNECTED_TO,L10,S03,estimated,80
+L01,CONNECTED_TO,L14,S03,estimated,100
+L10,CONNECTED_TO,L11,S03,estimated,60
+L10,CONNECTED_TO,L12,S03,estimated,70
+L11,CONNECTED_TO,L13,S03,estimated,50
+L12,CONNECTED_TO,L13,S03,estimated,40
+L06,CONNECTED_TO,L05,S02; S03,estimated,150
+L26,BELONGS_TO,Residential,S03,source_supported,
+L27,BELONGS_TO,Residential,S03,source_supported,
+L28,BELONGS_TO,Residential,S03,source_supported,
+L29,BELONGS_TO,Residential,S03,source_supported,
+L30,BELONGS_TO,Residential,S03,source_supported,
+L31,BELONGS_TO,Residential,S03,source_supported,
+L32,BELONGS_TO,Residential,S03,source_supported,
+L33,BELONGS_TO,Residential,S03,source_supported,
+L34,BELONGS_TO,Residential,S03,source_supported,
+L35,BELONGS_TO,Residential,S03,source_supported,
+L36,BELONGS_TO,Residential,S03,source_supported,
+L37,BELONGS_TO,Residential,S03,source_supported,
+L38,BELONGS_TO,Residential,S03,source_supported,
+L39,BELONGS_TO,Residential,S03,source_supported,
+L40,BELONGS_TO,Dining,S03,source_supported,
+L41,BELONGS_TO,Dining,S03,source_supported,
+L42,BELONGS_TO,Academic,S03,source_supported,
+L43,BELONGS_TO,Academic,S03,source_supported,
+L44,BELONGS_TO,Academic,S03,source_supported,
+L45,BELONGS_TO,Academic,S03,source_supported,
+L46,BELONGS_TO,Academic,S03,source_supported,
+L47,BELONGS_TO,Research,S03,source_supported,
+L48,BELONGS_TO,Research,S03,source_supported,
+L49,BELONGS_TO,Research,S03,source_supported,
+L50,BELONGS_TO,Events,S03,source_supported,
+L51,BELONGS_TO,Exhibition,S03,source_supported,
+L53,BELONGS_TO,Academic,S03,source_supported,
+L54,BELONGS_TO,Academic,S03,source_supported,
+L55,BELONGS_TO,Academic,S03,source_supported,
+L56,BELONGS_TO,Academic,S03,source_supported,
+L57,BELONGS_TO,Academic,S03,source_supported,
+L58,BELONGS_TO,Academic,S03,source_supported,
+L59,BELONGS_TO,Sports,S03,source_supported,
+L60,BELONGS_TO,Sports,S03,source_supported,
+L61,BELONGS_TO,Services,S03,source_supported,
+L62,BELONGS_TO,Services,S03,source_supported,
+L63,BELONGS_TO,Finance,S03,source_supported,
+L64,BELONGS_TO,Academic,S03,source_supported,
+L65,BELONGS_TO,Healthcare,S03,source_supported,
+L52,BELONGS_TO,Administration,S03,source_supported,
+

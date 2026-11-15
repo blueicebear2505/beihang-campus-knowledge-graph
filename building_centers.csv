@@ -1,0 +1,54 @@
+id,name,x,y
+L04,Student Dormitory,56.62,11.64
+L26,Student Dormitory D1,63.62,55.68
+L27,Student Dormitory D2,56.12,51.66
+L28,Student Dormitory D3,63.25,51.57
+L29,Student Dormitory D4,56.25,47.85
+L30,Student Dormitory D5,63.75,47.85
+L31,Student Dormitory D6,56.25,44.13
+L32,Student Dormitory D7,63.5,44.13
+L33,Student Dormitory D8,55.62,23.97
+L34,Student Dormitory D9,47.75,19.86
+L35,Student Dormitory D10,55.88,20.06
+L36,Student Dormitory D11,48.0,15.75
+L37,Student Dormitory D12,55.75,15.85
+L38,Student Dormitory D13,47.88,11.45
+L39,Student Dormitory D14,55.75,11.55
+L01,Campus Gymnasium,42.62,31.6
+L03,Dining Hall,42.75,36.01
+L05,Aerospace Pavilion,48.25,36.59
+L06,Music Hall,47.0,30.63
+L10,Basketball Court,41.38,19.47
+L11,Football Field,39.75,13.6
+L12,Tennis Court,36.38,17.51
+L13,Volleyball Court,36.12,21.04
+L14,Swimming Pool,33.25,59.49
+L19,South Gate,42.75,68.4
+L20,East Gate,65.0,25.64
+L40,South Canteen,56.5,54.31
+L41,North Canteen,49.38,22.9
+L42,Teaching Building 1,37.12,44.62
+L43,Teaching Building 2,47.38,45.4
+L44,Teaching Building 3,38.38,35.81
+L45,Teaching Building 4,47.75,36.2
+L46,Teaching Building 5,46.12,30.82
+L47,Research Building 1,31.0,47.85
+L48,Research Building 2,30.75,33.46
+L49,Research Building 3,54.62,34.74
+L50,Conference Center,38.62,50.0
+L51,Exhibition Hall,43.0,39.82
+L52,Staff Development Center,63.5,17.51
+L53,Laboratory Building 1,56.75,66.63
+L54,Laboratory Building 2,55.25,61.84
+L55,Laboratory Building 3,63.5,66.05
+L56,Laboratory Building 4,63.12,60.18
+L57,Laboratory Building 5,30.88,19.47
+L58,Laboratory Building 6,30.25,13.21
+L59,400m Sports Field,21.75,59.39
+L60,Training Gym,30.88,62.13
+L61,Student & Staff Services,38.25,44.52
+L62,Post Office,47.75,45.69
+L63,Bank,48.75,45.69
+L64,Supercomputing Center,47.62,31.21
+L65,Medical Center,45.5,28.96
+L02,Library,54.5,24.07
